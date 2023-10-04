@@ -1,0 +1,32 @@
+.login-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70vh;
+}
+.form-control{
+    padding:10px 20px;
+    border: 1px solid gray;
+    margin: 10px;
+}
+.Login-btn{
+     padding:10px 20px;
+     text-align: center;
+     width: 100%;
+     margin: auto;
+     background-color:red;
+     color: white;
+}
+.google-btn{
+    padding:15px 10px;
+    text-align: center;
+    width: 50%;
+    background-color:rgb(100, 36, 239);
+    color: white;
+    margin: auto;
+    margin: 15px;
+    border-radius: 10px;
+}
+.login-btns{
+    text-align: center;
+}
